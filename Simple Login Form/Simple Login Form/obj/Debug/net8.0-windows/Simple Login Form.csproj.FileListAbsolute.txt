@@ -1,0 +1,17 @@
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\obj\Debug\net8.0-windows\Simple_Login_Form.Form1.resources
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\obj\Debug\net8.0-windows\Simple Login Form.csproj.GenerateResource.cache
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\obj\Debug\net8.0-windows\Simple Login Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\obj\Debug\net8.0-windows\Simple Login Form.AssemblyInfoInputs.cache
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\obj\Debug\net8.0-windows\Simple Login Form.AssemblyInfo.cs
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\obj\Debug\net8.0-windows\Simple Login Form.csproj.CoreCompileInputs.cache
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\bin\Debug\net8.0-windows\Simple Login Form.exe
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\bin\Debug\net8.0-windows\Simple Login Form.deps.json
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\bin\Debug\net8.0-windows\Simple Login Form.runtimeconfig.json
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\bin\Debug\net8.0-windows\Simple Login Form.dll
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\bin\Debug\net8.0-windows\Simple Login Form.pdb
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\obj\Debug\net8.0-windows\Simple Login Form.dll
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\obj\Debug\net8.0-windows\refint\Simple Login Form.dll
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\obj\Debug\net8.0-windows\Simple Login Form.pdb
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\obj\Debug\net8.0-windows\Simple Login Form.genruntimeconfig.cache
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\obj\Debug\net8.0-windows\ref\Simple Login Form.dll
+D:\Zufar\Documents\Program\Desktop App\Simple Login Form\Simple Login Form\obj\Debug\net8.0-windows\Simple_Login_Form.Form2.resources
