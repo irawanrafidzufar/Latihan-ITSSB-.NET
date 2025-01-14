@@ -1,0 +1,16 @@
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\bin\Debug\net8.0-windows\Course App.exe
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\bin\Debug\net8.0-windows\Course App.deps.json
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\bin\Debug\net8.0-windows\Course App.runtimeconfig.json
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\bin\Debug\net8.0-windows\Course App.dll
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\bin\Debug\net8.0-windows\Course App.pdb
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\obj\Debug\net8.0-windows\Course_App.Form1.resources
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\obj\Debug\net8.0-windows\Course App.csproj.GenerateResource.cache
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\obj\Debug\net8.0-windows\Course App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\obj\Debug\net8.0-windows\Course App.AssemblyInfoInputs.cache
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\obj\Debug\net8.0-windows\Course App.AssemblyInfo.cs
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\obj\Debug\net8.0-windows\Course App.csproj.CoreCompileInputs.cache
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\obj\Debug\net8.0-windows\Course App.dll
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\obj\Debug\net8.0-windows\refint\Course App.dll
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\obj\Debug\net8.0-windows\Course App.pdb
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\obj\Debug\net8.0-windows\Course App.genruntimeconfig.cache
+D:\Zufar\Documents\Program\Desktop App\Course App\Course App\obj\Debug\net8.0-windows\ref\Course App.dll
