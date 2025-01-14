@@ -1,0 +1,16 @@
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\bin\Debug\net8.0-windows\Dialog Box.exe
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\bin\Debug\net8.0-windows\Dialog Box.deps.json
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\bin\Debug\net8.0-windows\Dialog Box.runtimeconfig.json
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\bin\Debug\net8.0-windows\Dialog Box.dll
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\bin\Debug\net8.0-windows\Dialog Box.pdb
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\obj\Debug\net8.0-windows\Dialog_Box.Form1.resources
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\obj\Debug\net8.0-windows\Dialog Box.csproj.GenerateResource.cache
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\obj\Debug\net8.0-windows\Dialog Box.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\obj\Debug\net8.0-windows\Dialog Box.AssemblyInfoInputs.cache
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\obj\Debug\net8.0-windows\Dialog Box.AssemblyInfo.cs
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\obj\Debug\net8.0-windows\Dialog Box.csproj.CoreCompileInputs.cache
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\obj\Debug\net8.0-windows\Dialog Box.dll
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\obj\Debug\net8.0-windows\refint\Dialog Box.dll
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\obj\Debug\net8.0-windows\Dialog Box.pdb
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\obj\Debug\net8.0-windows\Dialog Box.genruntimeconfig.cache
+D:\Zufar\Documents\Program\Desktop App\Dialog Box\Dialog Box\obj\Debug\net8.0-windows\ref\Dialog Box.dll
