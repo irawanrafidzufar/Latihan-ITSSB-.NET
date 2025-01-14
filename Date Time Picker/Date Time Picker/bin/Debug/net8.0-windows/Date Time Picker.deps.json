@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Date Time Picker/1.0.0": {
+        "runtime": {
+          "Date Time Picker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Date Time Picker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

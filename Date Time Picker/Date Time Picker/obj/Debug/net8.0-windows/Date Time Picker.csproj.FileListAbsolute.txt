@@ -1,0 +1,16 @@
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\bin\Debug\net8.0-windows\Date Time Picker.exe
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\bin\Debug\net8.0-windows\Date Time Picker.deps.json
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\bin\Debug\net8.0-windows\Date Time Picker.runtimeconfig.json
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\bin\Debug\net8.0-windows\Date Time Picker.dll
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\bin\Debug\net8.0-windows\Date Time Picker.pdb
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\obj\Debug\net8.0-windows\Date_Time_Picker.Form1.resources
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\obj\Debug\net8.0-windows\Date Time Picker.csproj.GenerateResource.cache
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\obj\Debug\net8.0-windows\Date Time Picker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\obj\Debug\net8.0-windows\Date Time Picker.AssemblyInfoInputs.cache
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\obj\Debug\net8.0-windows\Date Time Picker.AssemblyInfo.cs
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\obj\Debug\net8.0-windows\Date Time Picker.csproj.CoreCompileInputs.cache
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\obj\Debug\net8.0-windows\Date Time Picker.dll
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\obj\Debug\net8.0-windows\refint\Date Time Picker.dll
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\obj\Debug\net8.0-windows\Date Time Picker.pdb
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\obj\Debug\net8.0-windows\Date Time Picker.genruntimeconfig.cache
+D:\Zufar\Documents\Program\Desktop App\Date Time Picker\Date Time Picker\obj\Debug\net8.0-windows\ref\Date Time Picker.dll
