@@ -1,0 +1,17 @@
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\bin\Debug\net8.0-windows\Pass Data Example.exe
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\bin\Debug\net8.0-windows\Pass Data Example.deps.json
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\bin\Debug\net8.0-windows\Pass Data Example.runtimeconfig.json
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\bin\Debug\net8.0-windows\Pass Data Example.dll
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\bin\Debug\net8.0-windows\Pass Data Example.pdb
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\obj\Debug\net8.0-windows\Pass_Data_Example.Form1.resources
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\obj\Debug\net8.0-windows\Pass_Data_Example.Form2.resources
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\obj\Debug\net8.0-windows\Pass Data Example.csproj.GenerateResource.cache
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\obj\Debug\net8.0-windows\Pass Data Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\obj\Debug\net8.0-windows\Pass Data Example.AssemblyInfoInputs.cache
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\obj\Debug\net8.0-windows\Pass Data Example.AssemblyInfo.cs
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\obj\Debug\net8.0-windows\Pass Data Example.csproj.CoreCompileInputs.cache
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\obj\Debug\net8.0-windows\Pass Data Example.dll
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\obj\Debug\net8.0-windows\refint\Pass Data Example.dll
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\obj\Debug\net8.0-windows\Pass Data Example.pdb
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\obj\Debug\net8.0-windows\Pass Data Example.genruntimeconfig.cache
+D:\Zufar\Documents\Program\Desktop App\Pass Data Example\Pass Data Example\obj\Debug\net8.0-windows\ref\Pass Data Example.dll
