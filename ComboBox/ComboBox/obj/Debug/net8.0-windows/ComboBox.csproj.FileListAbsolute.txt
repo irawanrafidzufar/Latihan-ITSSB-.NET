@@ -1,0 +1,16 @@
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\bin\Debug\net8.0-windows\ComboBox.exe
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\bin\Debug\net8.0-windows\ComboBox.deps.json
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\bin\Debug\net8.0-windows\ComboBox.runtimeconfig.json
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\bin\Debug\net8.0-windows\ComboBox.dll
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\bin\Debug\net8.0-windows\ComboBox.pdb
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.Form1.resources
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.csproj.GenerateResource.cache
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.AssemblyInfoInputs.cache
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.AssemblyInfo.cs
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.csproj.CoreCompileInputs.cache
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.dll
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\obj\Debug\net8.0-windows\refint\ComboBox.dll
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.pdb
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.genruntimeconfig.cache
+D:\Zufar\Documents\Program\Desktop App\ComboBox\ComboBox\obj\Debug\net8.0-windows\ref\ComboBox.dll
