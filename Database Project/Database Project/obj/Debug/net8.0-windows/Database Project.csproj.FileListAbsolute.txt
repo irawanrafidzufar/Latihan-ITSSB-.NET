@@ -1,0 +1,54 @@
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Database Project.exe
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Database Project.deps.json
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Database Project.runtimeconfig.json
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Database Project.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Database Project.pdb
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\Database Project.csproj.AssemblyReference.cache
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\Database_Project.Form1.resources
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\Database_Project.Form2.resources
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\Database Project.csproj.GenerateResource.cache
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\Database Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\Database Project.AssemblyInfoInputs.cache
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\Database Project.AssemblyInfo.cs
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\Database Project.csproj.CoreCompileInputs.cache
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\Database.2DB4122A.Up2Date
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\Database Project.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\refint\Database Project.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\Database Project.pdb
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\Database Project.genruntimeconfig.cache
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\ref\Database Project.dll
+D:\Zufar\Documents\Program\Desktop App\Database Project\Database Project\obj\Debug\net8.0-windows\Database_Project.SignIn.resources
